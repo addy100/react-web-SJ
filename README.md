@@ -1,2 +1,2 @@
 # react-website-ShakesJeer
-Demo making of templates and executing the details.
+Demo building templates and executing the details.
